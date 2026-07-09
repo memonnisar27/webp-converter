@@ -40,6 +40,7 @@ export default function Home() {
           All processing happens locally in your browser. No images are ever
           uploaded to any server.
         </p>
+        <p className="mt-3 text-slate-400">by Nisar Ahmed</p>
       </footer>
     </main>
   );
